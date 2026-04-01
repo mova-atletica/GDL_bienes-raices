@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "GDL Bienes Raices",
+    "subtitle": "Análisis de Inversión Inmobiliaria"
+  },
+  "nav": {
+    "dashboard": "Inicio",
+    "projects": "Proyectos",
+    "newProject": "Nuevo Proyecto",
+    "templates": "Plantillas"
+  },
+  "dashboard": {
+    "title": "Inicio",
+    "totalProjects": "Total de Proyectos",
+    "inProgress": "En Progreso",
+    "completed": "Completados",
+    "recentProjects": "Proyectos Recientes",
+    "noProjects": "Aún no hay proyectos. Crea tu primer proyecto para comenzar.",
+    "createFirst": "Crear Proyecto"
+  },
+  "project": {
+    "name": "Nombre del Proyecto",
+    "type": "Tipo de Proyecto",
+    "location": "Ubicación",
+    "description": "Descripción",
+    "status": "Estado",
+    "exchangeRate": "Tipo de Cambio (MXN/USD)",
+    "types": {
+      "residential": "Residencial",
+      "commercial": "Comercial",
+      "mixed_use": "Uso Mixto",
+      "agricultural": "Agrícola"
+    },
+    "statuses": {
+      "draft": "Borrador",
+      "in_progress": "En Progreso",
+      "complete": "Completado"
+    },
+    "create": "Crear Proyecto",
+    "selectTemplate": "Seleccionar Plantilla",
+    "noTemplate": "Comenzar desde cero",
+    "step1": "Elegir Plantilla",
+    "step2": "Detalles del Proyecto",
+    "step3": "Costos Iniciales",
+    "overview": "Resumen",
+    "totalCost": "Costo Total de Desarrollo",
+    "estimatedValue": "Valor Estimado"
+  },
+  "costs": {
+    "title": "Análisis de Costos",
+    "categories": {
+      "land": "Adquisición de Terreno",
+      "construction": "Construcción",
+      "permits": "Permisos y Licencias",
+      "fees": "Honorarios Profesionales",
+      "financing": "Costos de Financiamiento",
+      "taxes": "Impuestos y Derechos",
+      "other": "Otros"
+    },
+    "total": "Costo Total de Desarrollo",
+    "addItem": "Agregar Costo",
+    "category": "Categoría",
+    "subcategory": "Subcategoría",
+    "description": "Descripción",
+    "amountMxn": "Monto (MXN)",
+    "amountUsd": "Monto (USD)",
+    "actions": "Acciones",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "breakdown": "Desglose de Costos",
+    "noItems": "Aún no hay costos. Agrega tu primer costo."
+  },
+  "valuation": {
+    "title": "Valuación de Propiedad",
+    "comparableSales": "Ventas Comparables",
+    "capRate": "Tasa de Capitalización",
+    "incomeApproach": "Enfoque de Ingresos",
+    "estimatedValue": "Valor Estimado",
+    "noi": "Ingreso Operativo Neto (Anual)",
+    "capRateLabel": "Tasa de Capitalización (%)",
+    "addValuation": "Agregar Valuación",
+    "method": "Método",
+    "noValuations": "Aún no hay valuaciones. Agrega una valuación para estimar el valor de la propiedad."
+  },
+  "projections": {
+    "title": "Proyecciones Financieras",
+    "roi": "Retorno de Inversión",
+    "irr": "Tasa Interna de Retorno",
+    "cashFlow": "Flujo de Efectivo",
+    "sensitivity": "Análisis de Sensibilidad",
+    "scenario": "Escenario",
+    "addScenario": "Agregar Escenario",
+    "calculate": "Calcular",
+    "months": "Meses de Proyección",
+    "monthlyRevenue": "Ingreso Mensual (MXN)",
+    "monthlyExpenses": "Gastos Mensuales (MXN)",
+    "salePrice": "Precio de Venta (MXN)",
+    "saleMonth": "Mes de Venta",
+    "discountRate": "Tasa de Descuento (%)",
+    "noProjections": "Aún no hay proyecciones. Agrega un escenario para analizar rendimientos."
+  },
+  "assistant": {
+    "title": "Asistente IA",
+    "placeholder": "Pregunta sobre tu proyecto...",
+    "thinking": "Analizando...",
+    "welcome": "¡Hola! Soy tu asistente de análisis inmobiliario. Cuéntame sobre tu proyecto y te ayudaré a analizar costos, valuaciones y proyecciones para el mercado mexicano.",
+    "applySuggestion": "Aplicar",
+    "error": "Lo siento, ocurrió un error. Por favor intenta de nuevo."
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "confirm": "¿Estás seguro?",
+    "mxn": "MXN",
+    "usd": "USD"
+  }
+}
