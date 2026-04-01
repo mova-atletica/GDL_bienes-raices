@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "GDL Bienes Raices",
+    "subtitle": "Real Estate Underwriting"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "newProject": "New Project",
+    "templates": "Templates"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalProjects": "Total Projects",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "recentProjects": "Recent Projects",
+    "noProjects": "No projects yet. Create your first project to get started.",
+    "createFirst": "Create Project"
+  },
+  "project": {
+    "name": "Project Name",
+    "type": "Project Type",
+    "location": "Location",
+    "description": "Description",
+    "status": "Status",
+    "exchangeRate": "Exchange Rate (MXN/USD)",
+    "types": {
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "mixed_use": "Mixed Use",
+      "agricultural": "Agricultural"
+    },
+    "statuses": {
+      "draft": "Draft",
+      "in_progress": "In Progress",
+      "complete": "Complete"
+    },
+    "create": "Create Project",
+    "selectTemplate": "Select Template",
+    "noTemplate": "Start from scratch",
+    "step1": "Choose Template",
+    "step2": "Project Details",
+    "step3": "Initial Costs",
+    "overview": "Overview",
+    "totalCost": "Total Development Cost",
+    "estimatedValue": "Estimated Value"
+  },
+  "costs": {
+    "title": "Cost Analysis",
+    "categories": {
+      "land": "Land Acquisition",
+      "construction": "Construction",
+      "permits": "Permits & Licenses",
+      "fees": "Professional Fees",
+      "financing": "Financing Costs",
+      "taxes": "Taxes & Duties",
+      "other": "Other"
+    },
+    "total": "Total Development Cost",
+    "addItem": "Add Cost Item",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "description": "Description",
+    "amountMxn": "Amount (MXN)",
+    "amountUsd": "Amount (USD)",
+    "actions": "Actions",
+    "delete": "Delete",
+    "save": "Save",
+    "breakdown": "Cost Breakdown",
+    "noItems": "No cost items yet. Add your first cost item."
+  },
+  "valuation": {
+    "title": "Property Valuation",
+    "comparableSales": "Comparable Sales",
+    "capRate": "Cap Rate",
+    "incomeApproach": "Income Approach",
+    "estimatedValue": "Estimated Value",
+    "noi": "Net Operating Income (Annual)",
+    "capRateLabel": "Cap Rate (%)",
+    "addValuation": "Add Valuation",
+    "method": "Method",
+    "noValuations": "No valuations yet. Add a valuation to estimate property value."
+  },
+  "projections": {
+    "title": "Financial Projections",
+    "roi": "Return on Investment",
+    "irr": "Internal Rate of Return",
+    "cashFlow": "Cash Flow",
+    "sensitivity": "Sensitivity Analysis",
+    "scenario": "Scenario",
+    "addScenario": "Add Scenario",
+    "calculate": "Calculate",
+    "months": "Projection Months",
+    "monthlyRevenue": "Monthly Revenue (MXN)",
+    "monthlyExpenses": "Monthly Expenses (MXN)",
+    "salePrice": "Sale Price (MXN)",
+    "saleMonth": "Sale Month",
+    "discountRate": "Discount Rate (%)",
+    "noProjections": "No projections yet. Add a scenario to analyze returns."
+  },
+  "assistant": {
+    "title": "AI Assistant",
+    "placeholder": "Ask about your project...",
+    "thinking": "Analyzing...",
+    "welcome": "Hello! I'm your real estate underwriting assistant. Tell me about your project and I'll help you analyze costs, valuations, and projections for the Mexican market.",
+    "applySuggestion": "Apply",
+    "error": "Sorry, I encountered an error. Please try again."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "confirm": "Are you sure?",
+    "mxn": "MXN",
+    "usd": "USD"
+  }
+}
